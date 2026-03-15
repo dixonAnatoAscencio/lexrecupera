@@ -55,7 +55,7 @@ export default function AboutUs() {
               </h3>
             </div>
             <p style={{ color: 'rgba(255,255,255,0.75)', lineHeight: 1.7, fontSize: '0.97rem' }}>
-              Consolidarnos como una empresa líder y referente a nivel nacional en la gestión, recuperación y administración de títulos judiciales, reconocida por su eficiencia operativa, transparencia, rigor jurídico y estricto cumplimiento del marco normativo vigente; proyectándonos, a mediano y largo plazo, hacia la ampliación de nuestro campo de actuación mediante la estructuración y ejecución de operaciones de compra y gestión de cesiones de derechos litigiosos y créditos derivados de decisiones judiciales, así como la incorporación y fortalecimiento de nuestros servicios en el área del derecho civil, especialmente en procesos ejecutivos, asuntos de derecho de familia y procesos sucesorales, con el propósito de ofrecer soluciones jurídicas integrales y posicionarnos como un referente confiable y especializado dentro del sector legal.
+              Gestionar de manera eficiente la recuperación de títulos judiciales correspondientes a procesos en los cuales nuestros clientes ostentan derechos legales frente a la parte demandada, mediante la aplicación de procedimientos jurídicos especializados y el ejercicio de altos estándares éticos y profesionales. Nuestra labor se orienta a garantizar la correcta administración, protección y restitución de los recursos derivados de procesos judiciales terminados.
             </p>
           </div>
 
