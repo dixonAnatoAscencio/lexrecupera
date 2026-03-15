@@ -19,7 +19,7 @@ const benefits = [
   {
     icon: <Clock size={26} />,
     title: 'Ahorro de tiempo',
-    desc: 'Lo que a usted podría tomarle meses navigando el sistema judicial, nosotros lo gestionamos de manera eficiente y oportuna.',
+    desc: 'Lo que a usted podría tomarle meses navegando el sistema judicial, nosotros lo gestionamos de manera eficiente y oportuna.',
   },
   {
     icon: <HeartHandshake size={26} />,
