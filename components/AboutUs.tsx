@@ -55,7 +55,7 @@ export default function AboutUs() {
               </h3>
             </div>
             <p style={{ color: 'rgba(255,255,255,0.75)', lineHeight: 1.7, fontSize: '0.97rem' }}>
-              Democratizar el acceso a la justicia económica en Colombia, ayudando a personas y familias a recuperar dinero que legalmente les pertenece y que permanece retenido en el sistema judicial por falta de información o acompañamiento especializado.
+              Consolidarnos como una empresa líder y referente a nivel nacional en la gestión, recuperación y administración de títulos judiciales, reconocida por su eficiencia operativa, transparencia, rigor jurídico y estricto cumplimiento del marco normativo vigente; proyectándonos, a mediano y largo plazo, hacia la ampliación de nuestro campo de actuación mediante la estructuración y ejecución de operaciones de compra y gestión de cesiones de derechos litigiosos y créditos derivados de decisiones judiciales, así como la incorporación y fortalecimiento de nuestros servicios en el área del derecho civil, especialmente en procesos ejecutivos, asuntos de derecho de familia y procesos sucesorales, con el propósito de ofrecer soluciones jurídicas integrales y posicionarnos como un referente confiable y especializado dentro del sector legal.
             </p>
           </div>
 
@@ -87,7 +87,7 @@ export default function AboutUs() {
               </h3>
             </div>
             <p style={{ color: 'rgba(255,255,255,0.75)', lineHeight: 1.7, fontSize: '0.97rem' }}>
-              Ser la firma líder en recuperación de títulos judiciales en Colombia, reconocida por su transparencia, efectividad y compromiso con el ciudadano. Queremos que ningún colombiano deje de reclamar el dinero que le pertenece por falta de acceso a la información jurídica.
+              Consolidarnos como una empresa líder y referente a nivel nacional en la gestión, recuperación y administración de títulos judiciales, reconocida por su eficiencia operativa, transparencia, rigor jurídico y estricto cumplimiento del marco normativo vigente; proyectándonos, a mediano y largo plazo, hacia la ampliación de nuestro campo de actuación mediante la estructuración y ejecución de operaciones de compra y gestión de cesiones de derechos litigiosos y créditos derivados de decisiones judiciales, así como la incorporación y fortalecimiento de nuestros servicios en el área del derecho civil, especialmente en procesos ejecutivos, asuntos de derecho de familia y procesos sucesorales, con el propósito de ofrecer soluciones jurídicas integrales y posicionarnos como un referente confiable y especializado dentro del sector legal.
             </p>
           </div>
         </div>
