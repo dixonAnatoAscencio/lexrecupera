@@ -37,9 +37,9 @@ export default function Contact() {
             {
               icon: <Mail size={24} />,
               title: 'Correo electrónico',
-              value: 'info@lexrecupera.co',
+              value: 'lexrecupera@hotmail.com',
               sub: 'Respondemos en 24h',
-              href: 'mailto:info@lexrecupera.co',
+              href: 'mailto:lexrecupera@hotmail.com',
             },
             {
               icon: <MapPin size={24} />,
