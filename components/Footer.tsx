@@ -119,7 +119,7 @@ export default function Footer() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
               {[
               { icon: <Phone size={14} />, text: '314 808 6411', href: 'tel:+573148086411' },
-              { icon: <Mail size={14} />, text: 'lexrecupera@gmail.com', href: 'mailto:lexrecupera@gmail.com' },
+              { icon: <Mail size={14} />, text: 'lexrecupera@gmail.com', href: 'mailto:lexrecupera@hotmail.com' },
               { icon: <MessageCircle size={14} />, text: 'WhatsApp directo', href: 'https://wa.me/573148086411' },
               { icon: <Scale size={14} />, text: 'Av. Jiménez #9-43 Of. 209, Bogotá', href: '#' },
               ].map((c) => (
