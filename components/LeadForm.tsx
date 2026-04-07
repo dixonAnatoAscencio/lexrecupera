@@ -76,18 +76,18 @@ export default function LeadForm() {
                 ¿Prefiere contactarnos directamente?
               </p>
               <a
-                href="https://wa.me/573001234567?text=Hola,%20quiero%20verificar%20si%20tengo%20t%C3%ADtulos%20judiciales%20a%20mi%20nombre"
+                href="https://wa.me/573148086411?text=Hola,%20quiero%20verificar%20si%20tengo%20t%C3%ADtulos%20judiciales%20a%20mi%20nombre"
                 target="_blank" rel="noopener noreferrer"
                 className="btn btn-whatsapp"
                 style={{ width: 'fit-content' }}
               >
                 <MessageCircle size={18} /> Escribir por WhatsApp
               </a>
-              <a href="tel:+573001234567" style={{
+              <a href="tel:+573148086411" style={{
                 display: 'flex', alignItems: 'center', gap: '0.5rem',
                 color: 'var(--navy)', fontWeight: '600', fontSize: '0.95rem',
               }}>
-                <Phone size={16} color="var(--gold-dark)" /> +57 300 123 4567
+                <Phone size={16} color="var(--gold-dark)" /> +57 314 8086411
               </a>
             </div>
           </div>
@@ -163,13 +163,13 @@ export default function LeadForm() {
                   <div className="form-group">
                     <label className="form-label" htmlFor="telefono">Teléfono / WhatsApp *</label>
                     <input id="telefono" name="telefono" type="tel" required
-                      className="form-input" placeholder="+57 300 000 0000"
+                      className="form-input" placeholder="+57 314 808 6411"
                       value={form.telefono} onChange={handleChange} />
                   </div>
                   <div className="form-group">
                     <label className="form-label" htmlFor="email">Correo electrónico</label>
                     <input id="email" name="email" type="email"
-                      className="form-input" placeholder="correo@ejemplo.com"
+                      className="form-input" placeholder="lexrecupera@gmail.com"
                       value={form.email} onChange={handleChange} />
                   </div>
                 </div>
