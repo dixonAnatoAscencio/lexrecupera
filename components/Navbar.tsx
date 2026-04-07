@@ -116,7 +116,7 @@ export default function Navbar() {
               whiteSpace: 'nowrap',
             }}>
               <Phone size={14} />
-              300 123 4567
+              +57 314 808 6411
             </a>
             <a href="#contacto" className="btn btn-primary" style={{ padding: '0.6rem 1.2rem', fontSize: '0.82rem', whiteSpace: 'nowrap' }}>
               Consulta Gratis
