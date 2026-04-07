@@ -118,10 +118,10 @@ export default function Footer() {
             </h4>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
               {[
-                { icon: <Phone size={14} />, text: '+57 300 123 4567', href: 'tel:+573001234567' },
-                { icon: <Mail size={14} />, text: 'info@lexrecupera.co', href: 'mailto:info@lexrecupera.co' },
-                { icon: <MessageCircle size={14} />, text: 'WhatsApp directo', href: 'https://wa.me/573001234567' },
-                { icon: <Scale size={14} />, text: 'Bogotá, Colombia', href: '#' },
+              { icon: <Phone size={14} />, text: '314 808 6411', href: 'tel:+573148086411' },
+              { icon: <Mail size={14} />, text: 'lexrecupera@gmail.com', href: 'mailto:lexrecupera@gmail.com' },
+              { icon: <MessageCircle size={14} />, text: 'WhatsApp directo', href: 'https://wa.me/573148086411' },
+              { icon: <Scale size={14} />, text: 'Av. Jiménez #9-43 Of. 209, Bogotá', href: '#' },
               ].map((c) => (
                 <a key={c.text} href={c.href} target={c.href.startsWith('http') ? '_blank' : undefined} rel="noopener noreferrer"
                   style={{
